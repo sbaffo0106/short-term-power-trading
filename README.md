@@ -1,19 +1,20 @@
 # Short-Term Power Trading
 
-End-to-end simulation of renewable energy trading in the Italian electricity market.
+Machine learning pipeline for renewable generation forecasting and short-term power trading.
 
 ## Objective
 
-The goal of this project is to simulate the workflow of a short-term renewable energy trader managing a solar generation portfolio.
+This project simulates the workflow of a short-term renewable power trading analyst operating in the Italian electricity market.
 
-The project covers:
+The goal is to evaluate how renewable generation forecasts can support Day-Ahead market participation, Intraday rebalancing decisions, and Profit & Loss analysis.
 
-* Renewable generation analysis
-* Solar power forecasting
-* Day-Ahead market participation
-* Intraday rebalancing strategies
-* Profit and Loss (PnL) analysis
-* Risk analytics
+## Project Roadmap
+
+1. Market and renewable generation analysis
+2. Solar generation forecasting
+3. Day-Ahead trading strategy
+4. Intraday rebalancing strategy
+5. PnL and risk analysis
 
 ## Project Structure
 
